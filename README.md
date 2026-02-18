@@ -84,7 +84,7 @@ The report is professionally designed with navigation, slicers, AI visuals hints
 *Data Source*:
 
 The dashboard uses cricket match results data from public datasets on Kaggle cricket datasets.
-<img width="1920" height="1080" alt="Screenshot 2026-02-18 095127" src="https://github.com/user-attachments/assets/0ad52138-8615-445f-a541-c0bbdcdc736b" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-18 095113" src="https://github.com/user-attachments/assets/5fdd1a78-4857-4070-bf2c-c478395b2276" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-18 095058" src="https://github.com/user-attachments/assets/38acb343-8f68-48d5-8bdc-7cf668d206dd" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-18 095141" src="https://github.com/user-attachments/assets/4dc39829-b1ef-4f33-8be3-be04186f9fb5" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-18 103804" src="https://github.com/user-attachments/assets/bc64ee9e-b781-40a1-ae23-5b150e718e9b" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-18 103746" src="https://github.com/user-attachments/assets/0d3b360b-7cce-45fc-b0b5-eb40fb65286c" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-18 103730" src="https://github.com/user-attachments/assets/95d36ebf-cf71-4015-b3fe-a1719b83340d" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-18 103710" src="https://github.com/user-attachments/assets/09f04929-1803-45a1-a818-5965ba99f884" />
