@@ -87,4 +87,5 @@ The dashboard uses cricket match results data from public datasets on Kaggle cri
 <img width="1920" height="1080" alt="Screenshot 2026-02-18 103804" src="https://github.com/user-attachments/assets/bc64ee9e-b781-40a1-ae23-5b150e718e9b" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-18 103746" src="https://github.com/user-attachments/assets/0d3b360b-7cce-45fc-b0b5-eb40fb65286c" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-18 103730" src="https://github.com/user-attachments/assets/95d36ebf-cf71-4015-b3fe-a1719b83340d" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-18 103710" src="https://github.com/user-attachments/assets/09f04929-1803-45a1-a818-5965ba99f884" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-18 122120" src="https://github.com/user-attachments/assets/4ecc1f57-d2ad-4f12-b93c-b2cca2a14c00" />
+
